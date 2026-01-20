@@ -1,7 +1,7 @@
-# AI Calculator - Technical Documentation
-
 ## 1. Project Overview
 The AI Calculator is a full-stack application that allows users to solve mathematical expressions, equations, and graphical problems by drawing them on a digital canvas. The system uses Google Gemini's multimodal capabilities to analyze drawings and provide real-time solutions.
+
+![AI Calculator Technical Architecture](file:///C:/Users/sarpo/.gemini/antigravity/brain/e560d173-9610-4625-b082-eb3ab0d18f3c/ai_calculator_architecture_flowchart_1768916070260.png)
 
 ---
 
